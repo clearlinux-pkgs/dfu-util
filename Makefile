@@ -1,5 +1,5 @@
 PKG_NAME := dfu-util
-URL = http://dfu-util.sourceforge.net/releases/dfu-util-0.9.tar.gz
+URL = https://sourceforge.net/projects/dfu-util/files/dfu-util-0.9.tar.gz
 ARCHIVES = 
 
 include ../common/Makefile.common
