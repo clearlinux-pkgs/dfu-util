@@ -4,7 +4,7 @@
 #
 Name     : dfu-util
 Version  : 0.9
-Release  : 3
+Release  : 4
 URL      : https://sourceforge.net/projects/dfu-util/files/dfu-util-0.9.tar.gz
 Source0  : https://sourceforge.net/projects/dfu-util/files/dfu-util-0.9.tar.gz
 Summary  : No detailed summary available
